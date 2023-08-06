@@ -1,0 +1,44 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+}
+
+footer p {
+  color: #ccc;
+}
+
+.header {
+  height: 80px;
+  width: 100%;
+  background-color: #f5ba13;
+  color: white;
+  margin: -22px 0 0;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  margin-bottom: 16px;
+}
+
+.header h1 {
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  padding: 16px 32px;
+}
+
+.note {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px #ccc;
+  width: 240px;
+  margin-left: 32px;
+}
